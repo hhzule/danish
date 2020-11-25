@@ -22,8 +22,8 @@
   font-size: xx-large;
 }
 .main {
-  background-color: #31b7bc;
-  /* background-color: #8ed1d3; */
+  /* background-color: #31b7bc; */
+  background-color: #8ed1d3;
   align-self: center;
   border-radius: 15px;
   margin: 90px;
@@ -47,8 +47,8 @@
   border-radius: 10px;
   padding: 13px 26px;
   width: 140px;
-  background-color: #c8f502;
-  /* background-color: #c7df5e; */
+  /* background-color: #c8f502; */
+  background-color: #c7df5e;
 }
 .question-text {
   font-weight: 600;

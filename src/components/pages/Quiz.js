@@ -5,6 +5,24 @@ const Quiz = () => {
 
 	const questions = [
 		{
+			questionText: 'What is the founder of Samsung?',
+			answerOptions: [
+				{ answerText: 'Kee Kun Lee', isCorrect: false },
+				{ answerText: 'James Green', isCorrect: false },
+				{ answerText: 'Seo-Hyoun', isCorrect: true },
+				{ answerText: 'Lee Byung-chul', isCorrect: false },
+			],
+		},
+		{
+			questionText: 'What is the founder of Google?',
+			answerOptions: [
+				{ answerText: 'Jeff & Yung', isCorrect: false },
+				{ answerText: 'Schmidt', isCorrect: false },
+				{ answerText: 'Sundar Pichai', isCorrect: true },
+				{ answerText: 'Lary Page & Sergey Brin', isCorrect: false },
+			],
+		},
+		{
 			questionText: 'What is the capital of France?',
 			answerOptions: [
 				{ answerText: 'New York', isCorrect: false },
